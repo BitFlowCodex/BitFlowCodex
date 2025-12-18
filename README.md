@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Jack, a fullstack developer from Sweden.<br>I like building things that actually work while looking good, learning by doing, and keeping code enjoyable.</p>
+<p align="left">My name is Jack, and I'm a full-stack developer from Sweden.<br>I enjoy building things that work while looking visually pleasing, learning by doing, and keeping my code readable.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I decided programming was a good idea, still fixing them daily<br>📚 I'm currently learning fullstack development with a strong on clean, efficient code.<br>🎯 Goals: Become a skilled developer who builds real, useful products and keeps improving.<br>🎲 Fun fact: I also enjoy creating entertaining and eductional content on youtube and tiktok.</p>
+<p align="left">✨ Enjoy turning ideas into working solutions, one bug at a time.<br>📚 I'm currently learning full-stack development with a focus on clean, efficient, and secure code.<br>🎯 Goals: Become a skilled developer who builds real, useful products and keeps improving.<br>🎲 Fun fact: I also enjoy creating entertaining and educational content on YouTube and TikTok.</p>
 
 ###
 
