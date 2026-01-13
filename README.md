@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jack, and I'm a full-stack developer from Sweden.<br>I enjoy building things that work while looking visually pleasing, learning by doing, and keeping my code readable.</p>
+<p align="left">My name is Jack, and I'm a full-stack developer from Sweden.<br>I enjoy building software, and learning by doing so.</p>
 
 ###
 
